@@ -3,8 +3,8 @@
 // Distributed under the BSD 2-clause Software License
 // (See accompanying file LICENSE)
 
-#if !defined(AUXILIARY_TRAITS_HPP)
-#define AUXILIARY_TRAITS_HPP
+#if !defined(TRAITS_TRAITS_HPP)
+#define TRAITS_TRAITS_HPP
 
 #include <array>
 #include <map>

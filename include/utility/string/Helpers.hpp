@@ -3,8 +3,8 @@
 // Distributed under the BSD 2-clause Software License
 // (See accompanying file LICENSE)
 
-#if !defined(AUXILIARY_STRINGHELPHERS_HPP)
-#define AUXILIARY_STRINGHELPHERS_HPP
+#if !defined(STRING_HELPHERS_HPP)
+#define STRING_HELPHERS_HPP
 
 #include <array>
 #include <string>
